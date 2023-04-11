@@ -1,8 +1,8 @@
 function Header() {
   return (
     <header>
-      <video src="./video.mp4" loop autoPlay muted></video>
-      <h1>Experience the natural beauty of Wood Bliss.</h1>
+      <video src="./video.mp4?version=2023" loop autoPlay muted></video>
+      <h1>Bringing Natural Beauty To Your Home.</h1>
       <div className="row">
         {/* 
         <button className="btn" style={{ cursor: "pointer" }}>
