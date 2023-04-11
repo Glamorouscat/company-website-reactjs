@@ -46,6 +46,9 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
+                    <Link to="#" >山东胜威源工艺品（中国）有限公司</Link>
+                  </li>
+                  <li>
                     <Link to="#" >support@wood-bliss.com</Link>
                   </li>
                   <li>
